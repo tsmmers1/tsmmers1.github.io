@@ -1,0 +1,130 @@
+---
+title: "About me..."
+---
+
+<h1 style="color:#309143;text-indent: 185px;background-color:#FAF9F6">...as a Scientist</h1> 
+
+<table border="0" style="width:100%">
+<tr>
+  <td align='left'>
+    <figure>
+      <img src="MemBridge.jpg"  width="420" height="280"/>
+    <figcaption>Memphis-Arkansas Bridge<br><i>Photo credit: Terrance Raper (tkr92) via Unsplash</figcaption>
+    </figure>
+  </td>
+  <td align='center'>
+  I am currently a postdoc working in the lab of Dr. David Cantu at the University of Nevada, Reno in Reno, Nevada.
+  </td>
+ </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%">  </td>
+    <td style="text-align:left; font-size:125%"> <i class="fa-regular fa-file"></i> <a href="https://www.w3schools.com/">Curriculum Vitae (April 2023)</a>  </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%">  </td>
+    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-orcid"></i> ORCiD: <a href="https://orcid.org/0000-0002-4243-6078">0000-0002-4243-6078</a>  </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%">  </td>
+    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-github"></i> GitHub: <a href="https://github.com/tsmmers1">github.com/tsmmers1</a>  </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%">  </td>
+    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-twitter"></i> Twitter: <a href="https://twitter.com/tjs_summers"> @tjs_summers </a>  </td>
+  </tr>
+</table>  
+
+<br>
+
+<table border="0" style="width:100%">
+  <tr>
+    <th style="text-align:center; font-size:200%">Skills</th>
+    <th style="text-align:center; font-size:200%">Interests</th>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%"> &bull; Programming: Python, R, C++  </td>
+    <td style="text-align:left; font-size:125%"> &bull; Protein modeling   </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%"> &bull; QM Software: <i> CP2K, Gaussian, ORCA, PSI4, Q-Chem </i>   </td>
+    <td style="text-align:left; font-size:125%"> &bull; QM effects in enzyme catalysis    </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%"> &bull; MM & MD Software: <i> AMBER, GROMACS, MOE </i>   </td>
+    <td style="text-align:left; font-size:125%"> &bull; Lanthanide complex modeling    </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%"> &bull; EXAFS computation </i>   </td>
+    <td style="text-align:left; font-size:125%"> &bull; Molecular structure prediction    </td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-size:125%"> &bull; Machine learning </i>   </td>
+    <td style="text-align:left; font-size:125%"> &bull; Chem/Bioinformatics  </td>
+  </tr>
+  
+</table>  
+
+<br>
+
+<table border="0" style="width:100%">
+<tr>
+  <td>
+  
+## **Education**  
+    
+
+#### **PhD in Computational Chemistry, 2021**
+<p style="text-indent: 25px;">
+  The University of Memphis
+</p>
+
+#### **Master of Science in Chemistry, 2017**
+<p style="text-indent: 25px;">
+  The University of Memphis
+</p>
+
+#### **Bachelor of Science in Biochemistry, 2016**
+<p style="text-indent: 25px;">
+Christian Brothers University
+</p>
+    </td>
+    <td align='right'>
+    <figure>
+      <img src="MemBridge.jpg"  width="420" height="280"/>
+    <figcaption>Memphis-Arkansas Bridge<br><i>Photo credit: Terrance Raper (tkr92) via Unsplash</figcaption>
+    </figure>
+    </td>
+ </tr>
+</table>  
+
+<br>
+<br>
+
+<h1 style="color:#309143;text-indent: 185px;background-color:#FAF9F6;">...outside the Lab</h1> 
+<br>
+
+<table border="0" style="width:100%">
+  <tr>
+    <th style="text-align:center; font-size:125%">\> Habitual hiker \< </th>
+    <th style="text-align:center; font-size:125%">\> Pizza chef hobbyist \< </th>
+  </tr>
+  <tr>
+    <th style="text-align:center; font-size:125%">\> Former  <a href="https://www.bbbs.org/">Big Brother</a>  \< </th>
+    <th style="text-align:center; font-size:125%">\> ASL Student  \< </th>
+  </tr>
+  <tr>
+    <th style="text-align:center; font-size:125%">\> Amateur pianist \< </th>
+    <th style="text-align:center; font-size:125%">\> Volunteer at <a href="https://fbnn.org/">FBNN</a>  \< </th>
+  </tr>
+  <tr>
+    <td align='left'>
+      <img src="Truckee.jpg"  width="378" height="284"/>
+    </td>
+    <td align='right'>
+      <img src="Tahoe.jpg"  width="505" height="284"/>
+    </figure>
+    </td>
+  </tr>
+</table>  
+
+

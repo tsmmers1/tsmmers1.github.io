@@ -1,0 +1,28 @@
+name: "TJS Website"
+output_dir: "."
+navbar:
+  title: "Thomas Summers"
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      icon: fa-thin fa-vial 
+      href: research.html
+    - text: "Publications"
+      icon: fa-laptop-file
+      href: publications.html
+    - text: "About"
+      icon: fa-user
+      href: about.html
+      
+  right:
+    - text: "Contact"
+      icon: fa-laptop
+      href: contact.html 
+
+output:
+  html_document:
+    css: bootstrap.css
+    highlight: tango
