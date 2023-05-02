@@ -2,6 +2,62 @@
 title: "Publications"
 ---
 
-## Header
+An up-to-date list of publications can be accessed at my <i class="fa-brands fa-orcid"></i> ORCiD: <a href="https://orcid.org/0000-0002-4243-6078">0000-0002-4243-6078</a>  
 
-Add publication info and DOIs
+<br>
+
+## Highlights
+
+<div role="tablist" aria-multiselectable="true">
+
+<div class="panel panel-info">
+<div class="panel-heading" role="tab" id="questionOne">
+<h5 class="panel-title">
+<a data-toggle="collapse" data-parent="#faq" href="#answerOne" aria-expanded="false" aria-controls="answerOne">
+Question 1
+</a>
+</h5>
+</div>
+<div id="answerOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="questionOne">
+<div class="panel-body">
+Answer 1...
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="questionTwo">
+<h5 class="panel-title">
+<a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#answerTwo" aria-expanded="false" aria-controls="answerTwo">
+Question 2
+</a>
+</h5>
+</div>
+<div id="answerTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="questionTwo">
+<div class="panel-body">
+Answer 2...
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="questionThree">
+<h5 class="panel-title">
+<a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#answerThree" aria-expanded="true" aria-controls="answerThree">
+Question 3
+</a>
+</h5>
+</div>
+<div id="answerThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="questionThree">
+<div class="panel-body">
+Answer 3...
+</div>
+</div>
+</div>
+
+</div>
+
+## Preprints
+
+<a href="#" class="btn btn-info btn-sm">DOI</a>
+
