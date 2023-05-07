@@ -5371,6 +5371,8 @@ button.list-group-item-danger.active:focus {
 }
 .panel-body {
   padding: 15px;
+  font-size: 17px;
+
 }
 .panel-heading {
   padding: 10px 15px;
@@ -5384,7 +5386,7 @@ button.list-group-item-danger.active:focus {
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 17px;
+  font-size: 20px;
   color: inherit;
 }
 .panel-title > a,
