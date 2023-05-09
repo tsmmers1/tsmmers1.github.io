@@ -9,7 +9,7 @@ title: "Research Interests"
   </h3>
   </div>
   <div class="panel-body">
-  <img src="images/tpyNO2_solution.png" style="float:right; width:360px;height:300px">
+  <img src="images/tpyNO2_solution.png" style="float:right; width:360px;height:300px;padding: 0px 0px 0px 10px;">
   Rare earth elements serve as components in a wide array of technologies, including catalysts, phosphors, and magnetic materials. Bonding for rare earth element coordination complexes is typically through electrostatic forces instead of covalent interactions; this leads to geometric configurations that are more irregular and fluxional compared to transition metal coordination complexes. 
   <br> <br>
   Computational (molecular dynamics simulations; global optimization searches) and experimental (X-ray absorption fine structure spectroscopy) methods can be used to resolve the molecular structures an ion-ligand complex will form within solution. Characterizing these solution structures is relevant towards developing materials for lanthanide extraction, medical imaging, molecular magnets, quantum sensors, and other applications. 
@@ -23,7 +23,7 @@ title: "Research Interests"
   </h3>
   </div>
   <div class="panel-body">
-  <img src="images/EnzymeModel.png" style="float:right; width:360px;height:300px">
+  <img src="images/EnzymeModel.png" style="float:right; width:360px;height:300px;padding: 0px 0px 0px 10px;">
    
   </div>
 </div>

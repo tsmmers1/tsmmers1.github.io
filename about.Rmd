@@ -1,130 +1,130 @@
 ---
 title: "About me..."
 ---
-
-<h1 style="color:#309143;text-indent: 185px;background-color:#FAF9F6">...as a Scientist</h1> 
-
-<table border="0" style="width:100%">
-<tr>
-  <td align='left'>
-    <figure>
-      <img src="./images/MemBridge.jpg"  width="420" height="280"/>
-    <figcaption>Memphis-Arkansas Bridge<br><i>Photo credit: Terrance Raper (tkr92) via Unsplash</figcaption>
-    </figure>
-  </td>
-  <td align='center'>
-  I am currently a postdoc working in the lab of Dr. David Cantu at the University of Nevada, Reno in Reno, Nevada.
-  </td>
- </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%">  </td>
-    <td style="text-align:left; font-size:125%"> <i class="fa-regular fa-file"></i> <a href="CV.pdf#" class="download"> Curriculum Vitae (April 2023)</a>  </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%">  </td>
-    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-orcid"></i> ORCiD: <a href="https://orcid.org/0000-0002-4243-6078">0000-0002-4243-6078</a>  </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%">  </td>
-    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-github"></i> GitHub: <a href="https://github.com/tsmmers1">github.com/tsmmers1</a>  </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%">  </td>
-    <td style="text-align:left; font-size:110%"> <i class="fa-brands fa-twitter"></i> Twitter: <a href="https://twitter.com/tjs_summers"> @tjs_summers </a>  </td>
-  </tr>
-</table>  
-
 <br>
-
-<table border="0" style="width:100%">
-  <tr>
-    <th style="text-align:center; font-size:200%">Skills</th>
-    <th style="text-align:center; font-size:200%">Interests</th>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%"> &bull; Programming: Python, R, C++  </td>
-    <td style="text-align:left; font-size:125%"> &bull; Protein modeling   </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%"> &bull; QM Software: <i> CP2K, Gaussian, ORCA, PSI4, Q-Chem </i>   </td>
-    <td style="text-align:left; font-size:125%"> &bull; QM effects in enzyme catalysis    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%"> &bull; MM & MD Software: <i> AMBER, GROMACS, MOE </i>   </td>
-    <td style="text-align:left; font-size:125%"> &bull; Lanthanide complex modeling    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%"> &bull; EXAFS computation </i>   </td>
-    <td style="text-align:left; font-size:125%"> &bull; Molecular structure prediction    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; font-size:125%"> &bull; Machine learning </i>   </td>
-    <td style="text-align:left; font-size:125%"> &bull; Chem/Bioinformatics  </td>
-  </tr>
+<div class="panel panel-info">
+  <div class="panel-heading">
+  <h2 style="panel-title; ">
+  ...as a Scientist
+  </h2>
+  </div>
+  <div class="panel-body">
+  <img src="images/tpyNO2_solution.png" style="float:left; width:360px;height:300px;padding: 0px 15px 0px 0px;"> 
+  I am a computational chemist who focuses on using molecular modeling to examine biochemical and inorganic systems. <br> <br>
+  Currently, I am a postdoc researcher in the lab of <a href="https://www.unr.edu/cme/people/david-cantu">Dr. David Cantu</a> at the University of Nevada, Reno located in the <a href="https://www.kunr.org/local-stories/2017-08-01/how-did-the-biggest-little-city-get-its-name">Biggest Little City in the World</a>. My principle research is on simulating solution structures of 
+  lanthanide-ligand coordination complexes. <br> <br>
+  Before joining the Cantu lab, I completed my PhD under <a href="https://www.memphis.edu/chem/people/faculty/deyonker.php">Dr. Nathan DeYonker</a> at the University of Memphis located in my hometown
+  of Memphis, Tennessee. While in the DeYonker lab, I worked on modeling enzyme-catalyzed reactions and using cheminformatic techniques to examine protein inter-residue interactions. <br>
+  <i class="fa-regular fa-file"></i> <a href="CV.pdf#" class="download"> Curriculum Vitae (April 2023)</a>  
+  <i class="fa-brands fa-orcid"></i> ORCiD: <a href="https://orcid.org/0000-0002-4243-6078">0000-0002-4243-6078</a>  
+  <i class="fa-brands fa-github"></i> GitHub: <a href="https://github.com/tsmmers1">github.com/tsmmers1</a>  
+  <i class="fa-brands fa-twitter"></i> Twitter: <a href="https://twitter.com/tjs_summers"> @tjs_summers </a>  
+ <br>
+ 
+ 
+<ul class="list-group" style="float:left; width:49%">
+   <a class="list-group-item active" style="background-color:#309143; font-size:120%; text-align:center">
+    Skills
+  </a>
+  <li class="list-group-item">
+    Programming: Python, R, C++
+  </li>
+  <li class="list-group-item">
+    QM Software: <i> CP2K, Gaussian, ORCA, PSI4, Q-Chem </i>
+  </li>
+  <li class="list-group-item">
+    MM & MD Software: <i> AMBER, GROMACS, MOE </i>
+  </li>
+  <li class="list-group-item">
+    EXAFS computation
+  </li>
+  <li class="list-group-item">
+    Machine Learning
+  </li>  
+</ul>
+ 
+<ul class="list-group" style="float:right; width:49%">
+   <a class="list-group-item active" style="background-color:#309143; font-size:120%; text-align:center">
+    Interests
+  </a>
+  <li class="list-group-item">
+    Protein modeling
+  </li>
+  <li class="list-group-item">
+    QM effects in enzyme catalysis
+  </li>
+  <li class="list-group-item">
+    Lanthanide complex modeling
+  </li>
+  <li class="list-group-item">
+    Molecular structure prediction
+  </li>
+  <li class="list-group-item">
+    Chem/Bioinformatics
+  </li>  
+</ul>
   
-</table>  
+
+<ul class="list-group" style="float:left; width:49%">
+   <a class="list-group-item active" style="background-color:#798d8f; font-size:120%; text-align:center">
+    Education
+  </a>
+  <li class="list-group-item">
+    <b>Ph.D. in Chemistry, 2021</b> 
+    <p style="text-indent: 50px;"> The University of Memphis </p>
+  </li>
+  <li class="list-group-item">
+    <b>M.S. in Chemistry, 2017</b> 
+    <p style="text-indent: 50px;"> The University of Memphis </p>
+  </li>
+  <li class="list-group-item">
+    <b>B.S. in Biochemistry, 2016</b> 
+    <p style="text-indent: 50px;"> Christian Brothers University </p>
+  </li>
+</ul>
+
+<img src="./images/MemBridge.jpg"  width="420" height="280" style="float:right"/>
+<figcaption style="float:right">Memphis-Arkansas Bridge<br><i>Photo credit: Terrance Raper (tkr92) via Unsplash</i></figcaption>
+
+  </div>
+</div>
 
 <br>
 
-<table border="0" style="width:100%">
-<tr>
-  <td>
+<div class="panel panel-info">
+  <div class="panel-heading">
+  <h2 style="panel-title; ">
+  ...outside the Lab
+  </h2>
+  </div>
+  <div class="panel-body">
   
-## **Education**  
-    
+<div class="well well-sm" style="float:left; width:48%">
+  <p style="text-align:center">Habitual Hiker</p>
+</div>  
+<div class="well well-sm" style="float:right; width:48%">
+  <p style="text-align:center">Pizza Chef Hobbyist</p>
+</div>
+  
+<div class="well well-sm" style="float:left; width:48%">
+  <p style="text-align:center">Former  <a href="https://www.bbbs.org/">Big Brother</a></p>
+</div>  
+<div class="well well-sm" style="float:right; width:48%">
+  <p style="text-align:center">ASL Student</p>
+</div>
+  
+<div class="well well-sm" style="float:left; width:48%">
+  <p style="text-align:center">Amateur Pianist</p>
+</div>  
+<div class="well well-sm" style="float:right; width:48%">
+  <p style="text-align:center">Volunteer at <a href="https://fbnn.org/">FBNN</a> </p>
+</div>
 
-#### **PhD in Computational Chemistry, 2021**
-<p style="text-indent: 25px;">
-  The University of Memphis
-</p>
+<img src="./images/Truckee.jpg"  width="373" height="280"/ style="float:left">
+<img src="./images/Tahoe.jpg"  width="498" height="280"/ style="float:right">
+  
+  </div>
+</div>
 
-#### **Master of Science in Chemistry, 2017**
-<p style="text-indent: 25px;">
-  The University of Memphis
-</p>
-
-#### **Bachelor of Science in Biochemistry, 2016**
-<p style="text-indent: 25px;">
-Christian Brothers University
-</p>
-    </td>
-    <td align='right'>
-    <figure>
-      <img src="./images/MemBridge.jpg"  width="420" height="280"/>
-    <figcaption>Memphis-Arkansas Bridge<br><i>Photo credit: Terrance Raper (tkr92) via Unsplash</figcaption>
-    </figure>
-    </td>
- </tr>
-</table>  
-
-<br>
-<br>
-
-<h1 style="color:#309143;text-indent: 185px;background-color:#FAF9F6;">...outside the Lab</h1> 
-<br>
-
-<table border="0" style="width:100%">
-  <tr>
-    <th style="text-align:center; font-size:125%">\> Habitual hiker \< </th>
-    <th style="text-align:center; font-size:125%">\> Pizza chef hobbyist \< </th>
-  </tr>
-  <tr>
-    <th style="text-align:center; font-size:125%">\> Former  <a href="https://www.bbbs.org/">Big Brother</a>  \< </th>
-    <th style="text-align:center; font-size:125%">\> ASL Student  \< </th>
-  </tr>
-  <tr>
-    <th style="text-align:center; font-size:125%">\> Amateur pianist \< </th>
-    <th style="text-align:center; font-size:125%">\> Volunteer at <a href="https://fbnn.org/">FBNN</a>  \< </th>
-  </tr>
-  <tr>
-    <td align='left'>
-      <img src="./images/Truckee.jpg"  width="378" height="284"/>
-    </td>
-    <td align='right'>
-      <img src="./images/Tahoe.jpg"  width="505" height="284"/>
-    </figure>
-    </td>
-  </tr>
-</table>  
 
 
