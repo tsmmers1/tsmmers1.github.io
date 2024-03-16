@@ -4,11 +4,11 @@ title: "Need to reach me?"
 <br>
 <br>
 
-<p style="font-size:125%"> <i class="fa-solid fa-envelope"></i> University email: thomassummers@unr.edu </p>
+<p style="font-size:125%"> <i class="fa-solid fa-envelope"></i> Work email: tsummers@lanl.gov </p>
 <p style="font-size:110%"> <i class="fa-regular fa-envelope"></i> Alternate email: tjsummers901@gmail.com </p>
 
 <br>
 
 
-<p style="font-size:125%"> <i class="fa-solid fa-location-dot"></i> Office: Scrugham Engineering and Mines, SEM 203 </p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3076.8826342573443!2d-119.81556278463049!3d39.53970157947666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMznCsDMyJzIyLjkiTiAxMTnCsDQ4JzQ4LjIiVw!5e0!3m2!1sen!2sus!4v1682920589406!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p style="font-size:125%"> <i class="fa-solid fa-location-dot"></i> Work: Los Alamos National Laboratory, Los Alamos, New Mexico, United States </p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12936.8066741259!2d-106.28716200004467!3d35.844058223713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87181246af22e765%3A0x7f5a90170c5df1b4!2sLos%20Alamos%20National%20Laboratory!5e0!3m2!1sen!2sus!4v1710552280725!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

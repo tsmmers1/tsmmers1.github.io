@@ -7,7 +7,7 @@ title: "Thomas Summers, PhD"
 
 <br>
 
-#### I am a computational chemist who specializes in using molecular modeling to examine biochemical and inorganic systems.
+#### I am a computational chemist who specializes in using molecular modeling to examine biochemical and inorganic systems.  In particular, I enjoy exploring the chemical phenomena that underlie the assembly of metal-ligand complexes or protein structures within solution. 
 
 <br>
 
@@ -16,9 +16,34 @@ title: "Thomas Summers, PhD"
   <a href="publications.html" class="btn btn-info" style="width:49%">Publication Highlights</a>
 </div>
 
+<script src="https://3Dmol.org/build/3Dmol.js"></script>     
+<div id="container" class="mol-container">
+  <style>
+  .mol-container {
+    width: 100%;
+    height: 600px;
+    position: relative;
+  }
+  </style>
+  <script>
+    let viewer = $3Dmol.createViewer(document.querySelector('#container'), {backgroundColor: 'white'});
+    $3Dmol.get("./images/DyTerpyNO2-MD.xyz", function(data){
+      viewer.addModelsAsFrames(data, "xyz");
+      viewer.animate({loop: "forward",reps: 0});
+      viewer.setStyle({sphere:{'colorscheme':'Jmol','scale':0.2}, stick:{'colorscheme':'Jmol','radius':0.1}});
+      viewer.setStyle({'elem':'Dy'},{'sphere':{'colorscheme':'Jmol','scale':0.8}, stick:{'colorscheme':'Jmol','radius':0.1}});
+      viewer.zoomTo();
+      viewer.zoom(1.25);
+      viewer.render();
+})
+  </script>
+</div>
+
+<p class="text-secondary" style="text-align:right">Simulation of Dysprosium coordinating nitrate and a </br> terpyridine ligand within acetonitrile solvent.</p> 
 
 
-```{r, fig.height=5.5, fig.width=9, fig.fullwidth=TRUE, echo=FALSE,message=FALSE}
+
+```{r, fig.height=5.5, fig.width=9.5, fig.fullwidth=TRUE, echo=FALSE,message=FALSE}
 library(networkD3)
 src <- c('106HIE','107VAL','108TYR','108TYR','108TYR','112ALA','114VAL','115LEU','115LEU','115LEU','115LEU','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','128TSA','48SER','6ILE','78GLU','78GLU','79MET','79MET','7ARG','7ARG','7ARG','7ARG','7ARG','7ARG','7ARG','7ARG','81VAL','85LEU','89ILE','8GLY','90ARG','90ARG','90ARG','92MET','9ALA','9ALA','9ALA','9ALA','277LEU','302LEU','303LEU','303LEU','312VAL','312VAL','313PHE','313PHE','313PHE','315ALA','315ALA','316LYS','316LYS','316LYS','319ARG','329VAL','329VAL','330THR','330THR','331CYS','331CYS')
 target <- c('108TYR','108TYR','109LEU','112ALA','116ARG','115LEU','115LEU','108TYR','115LEU','128TSA','90ARG','108TYR','128TSA','7ARG','313PHE','315ALA','319ARG','330THR','2077WAT','2100WAT','3512WAT','554WAT','8213WAT','8549WAT','90ARG','7ARG','313PHE','331CYS','313PHE','331CYS','106HIE','7ARG','8GLY','90ARG','91VAL','92MET','328PRO','330THR','313PHE','115LEU','90ARG','108TYR','128TSA','78GLU','90ARG','330THR','108TYR','115LEU','7ARG','90ARG','316LYS','330THR','315ALA','331CYS','313PHE','316LYS','313PHE','314PRO','315ALA','318VAL','331CYS','128TSA','313PHE','319ARG','319ARG','315ALA','330THR','331CYS','332MET','128TSA','332MET')
@@ -27,10 +52,19 @@ networkData <- data.frame(src, target, stringsAsFactors = FALSE)
 p<- simpleNetwork(networkData, nodeColour="#f39c12", opacity=1, fontSize = 12,fontFamily="Arial", charge=-100, zoom=T)
 p
 ```
+
 <p class="text-warning" style="text-align:right">Local interaction network graph for a transition state analogue (TSA) <br> contained within the active site of a chorismate mutase enzyme. </p>
+
+
+
 
 <br>
 <div class="btn-group btn-group-justified">
   <a href="about.html" class="btn btn-default" style="width:49%">About Me</a>
   <a href="contact.html" class="btn btn-default" style="width:49%">Contact</a>
 </div>
+
+
+
+
+
